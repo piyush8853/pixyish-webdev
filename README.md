@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piyush Sharma
 
-💻 Web Developer | CSE Student  
+💻 Web Designer  | CSE Student  
 🚀 Passionate about building modern web applications  
 
 ---
