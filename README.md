@@ -1,4 +1,55 @@
+# 👋 Hi, I'm Piyush Sharma
 
+💻 Web Developer | CSE Student  
+🚀 Passionate about building modern web applications  
+
+---
+
+## 🌟 About Me
+
+- 🔭 I’m currently working on: Web Development Projects  
+- 🌱 I’m currently learning: JavaScript & Advanced CSS  
+- 👯 I’m looking to collaborate on: Web Projects  
+- 🤝 I’m looking for help with: Improving my coding skills  
+- 💬 Ask me about: HTML, CSS, JavaScript  
+- 📫 How to reach me: piyushsharma36073@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love coding and learning new tech  
+
+---
+
+## 🛠️ Skills
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Design  
+
+---
+
+## 📂 Projects
+
+- 🌐 Portfolio Website  
+- ✅ To-Do List App  
+- 🧮 Calculator  
+
+---
+
+## 📊 GitHub Stats
+
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+
+---
+
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushsharma36073@gmail.com) 
 
